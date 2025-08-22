@@ -1,8 +1,40 @@
 # Hashflix
-In this project I made my own version of Netflix. Everything was done using PyCharm.
+Built a full-stack Netflix-like streaming platform with Django, featuring user authentication, embedded video player, search bar, and content categorization.
 
-# How It's Made: 
-**Tech used:** Python, Django, Tailwind, Bootstrap(for the crispy forms), HTML, CSS, JS, SQLite
+# Frontend: 
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Bootstrap5 (Django-Crispy-Forms)
+
+# Backend:
+- Python (Django)
+
+# Database:
+- SQLite
+
+# About:
+
+- The user can update their profile and change password.
+- The view counts are counted dynamically.
+- The highlight movie is the newest movie added
+- Popular movies are sorted by their number of views
+- New movies category is sorted by their creation date
+- I changed the AbstractUser so the user could log in with the email instead of the username and also to add the 'Continue watching' category for each user
+
 
 # How To Run The Project:
 Open the project folder, open the command prompt in your terminal and run “python manage.py runserver”
+
+Required libraries: 
+
+- asgiref==3.9.0
+- crispy-bootstrap5==2025.6
+- Django==5.2.4
+- django-crispy-forms==2.4
+- gunicorn==23.0.0
+- packaging==25.0
+- pillow==11.3.0
+- sqlparse==0.5.3
+- tzdata==2025.2
