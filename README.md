@@ -2,8 +2,8 @@
 Built a full-stack Netflix-like streaming platform with Django, featuring user authentication, embedded video player, search bar, and content categorization.
 
 # Frontend: 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Tailwind CSS
 - Bootstrap5 (Django-Crispy-Forms)
@@ -22,6 +22,7 @@ Built a full-stack Netflix-like streaming platform with Django, featuring user a
 - Popular movies are sorted by their number of views
 - New movies category is sorted by their creation date
 - I changed the AbstractUser so the user could log in with the email instead of the username and also to add the 'Continue watching' category for each user
+- I implemented my code with a front-end template, also doing some adjustments on the HTML and CSS as necessary
 
 
 # How To Run The Project:
