@@ -1,6 +1,8 @@
 # Hashflix
 Built a full-stack Netflix-like streaming platform with Django, featuring user authentication, embedded video player, search bar, and content categorization.
 
+Take a look here: https://hashflix-streaming-8ec4cfa4fb70.herokuapp.com/
+
 # Frontend: 
 - HTML
 - CSS
