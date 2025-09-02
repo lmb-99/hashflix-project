@@ -14,7 +14,8 @@ Take a look here: https://hashflix-streaming-8ec4cfa4fb70.herokuapp.com/
 - Python (Django)
 
 # Database:
-- SQLite
+- SQLite (local)
+- Postgres (online)
 
 # About:
 
